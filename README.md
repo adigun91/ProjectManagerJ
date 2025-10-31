@@ -34,5 +34,4 @@ An expert agent that designs and documents a complete Project Management Solutio
 5. Select it and start using
 
 #**Sample prompts to use**
-1. break this project down into tasks: a web portal for incident logging
-2. further break the frontend tasks into subtasks
+1. Create a comprehensive project plan for a web portal for incident logging
