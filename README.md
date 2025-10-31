@@ -31,7 +31,8 @@ An expert agent that designs and documents a complete Project Management Solutio
 2. Click on CoPilot
 3. CLick on Explore Agents
 4. Search for ProjectManagerJ
-5. Select it and start using
+5. Select it and click on Add
+6. Start using
 
 #**Sample prompts to use**
 1. Create a comprehensive project plan for a web portal for incident logging
