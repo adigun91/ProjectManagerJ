@@ -9,9 +9,10 @@ An expert agent that designs and documents a complete Project Management Solutio
 5. Click on Upload Custom Agent
 6. Select the ProjectManagerJ
 7. Upload
-8. Set the accessibility to specific people, only you or the entire organization
-9. The AI Agent - ProjectManagerJ is unblocked and can now be accessed from the Microsoft 365 admin portal
-10. To use in Microsoft Teams, jump to step 9 under **how to upload to Microsoft Teams**
+8. Ensure the app is deployed and
+9. Set the accessibility to specific people, only you or the entire organization
+10. The AI Agent - ProjectManagerJ is unblocked and can now be accessed from the Microsoft 365 admin portal
+11. To use in Microsoft Teams, jump to step 9 under **how to upload to Microsoft Teams**
 
 **#How to upload to Microsoft Teams**
 1. Login to (https://admin.teams.microsoft.com/) as admin
@@ -22,7 +23,7 @@ An expert agent that designs and documents a complete Project Management Solutio
 6. Select the ProjectManagerJ
 7. Upload
 8. Once it is done uploading
-9. Search for the app and click to open it
+9. Search for the app, click to open it and ensure it is unblocked
 10. Select edit availability to set it to be accessed by specific people, only you or the entire organization
 11. The AI Agent - ProjectManagerJ is unblocked and can now be accessed in Microsoft Teams
 
