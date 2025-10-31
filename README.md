@@ -2,37 +2,37 @@
 An expert agent that designs and documents a complete Project Management Solution for organizations. The agent provides detailed guidance on project setup, planning, execution, tracking, reporting, collaboration, security, and technology stack recommendations.
 
 **#How to Upload to Microsoft 365 Admin portal**
-Login to office.com as admin
-Click on Admin
-Click on CoPilot
-Click on Agents
-Click on Upload Custom Agent
-Select the ProjectManagerJ
-Upload
-Set the accessibility to specific people, only you or the entire organization
-The AI Agent - ProjectManagerJ is unblocked and can now be accessed from the Microsoft 365 admin portal
-To use in Microsoft Teams, jump to step 25
+1. Login to office.com as admin
+2. Click on Admin
+3. Click on CoPilot
+4. Click on Agents
+5. Click on Upload Custom Agent
+6. Select the ProjectManagerJ
+7. Upload
+8. Set the accessibility to specific people, only you or the entire organization
+9. The AI Agent - ProjectManagerJ is unblocked and can now be accessed from the Microsoft 365 admin portal
+10. To use in Microsoft Teams, jump to step 9 under **how to upload to Microsoft Teams**
 
 **#How to upload to Microsoft Teams**
-Login to (https://admin.teams.microsoft.com/) as admin
-Click on Teams Apps
-Click on Manage Apps
-CLick on Action
-Select Upload new App
-Select the ProjectManagerJ
-Upload
-Once it is done uploading
-Search for the app and click to open it
-Select edit availability to set it to be accessed by specific people, only you or the entire organization
-The AI Agent - ProjectManagerJ is unblocked and can now be accessed in Microsoft Teams
+1. Login to (https://admin.teams.microsoft.com/) as admin
+2. Click on Teams Apps
+3. Click on Manage Apps
+4. CLick on Action
+5. Select Upload new App
+6. Select the ProjectManagerJ
+7. Upload
+8. Once it is done uploading
+9. Search for the app and click to open it
+10. Select edit availability to set it to be accessed by specific people, only you or the entire organization
+11. The AI Agent - ProjectManagerJ is unblocked and can now be accessed in Microsoft Teams
 
 #**How to use in Microsoft Teams**
-Launch Microsot Teams
-Click on CoPilot
-CLick on Explore Agents
-Search for ProjectManagerJ
-Select it and start using
+1. Launch Microsot Teams
+2. Click on CoPilot
+3. CLick on Explore Agents
+4. Search for ProjectManagerJ
+5. Select it and start using
 
 #**Sample prompts to use**
-break this project down into tasks: a web portal for incident logging
-further break the frontend tasks into subtasks
+1. break this project down into tasks: a web portal for incident logging
+2. further break the frontend tasks into subtasks
